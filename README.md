@@ -27,3 +27,4 @@ A collection of one-click buttons and scripts for deploying [code-server](https:
   - All software and dependencies need to be defined in the `Dockerfile` or install script so they aren't destroyed on a rebuild. This is great if you want to have a new, clean environment every time you code
   - Storage may not be redundant. You may have to use [rclone](https://rclone.org/) to store your filesystem on a cloud service, for info:
 - [📄 Docs for code-server-deploy-container](deploy-container/)
+
